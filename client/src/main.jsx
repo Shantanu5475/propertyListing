@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
      domain="dev-vh7w6kqhhcrajint.au.auth0.com"
      clientId="NyMeGWdsalUxA6nUoNvL36lZp3MFkP8G"
      authorizationParams={{
-      redirect_uri: "http://localhost:5173"
+      redirect_uri: "https://property-listing-jdyx.vercel.app"
      }}
      audience="http://localhost:8000"
      scope="openid profile email"
